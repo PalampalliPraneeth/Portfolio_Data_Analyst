@@ -6,7 +6,7 @@ let timelineElements = [
     position: "Master's in Business Analytics",
     location: "Buffalo, USA",
     description:
-      ["Coursework:  DataBase Management System, Visual Basic for Applications, SQL, Python, R Programming, Statistical Analysis, Web Analytics, Tableau, Power Bi, Supply Chain Analytics, HealthCare Analytics, OLAP, Machine Learning"],
+      ["Coursework: Web Analytics, DataBase Management System, Visual Basic for Applications, SQL, Python, R Programming, Statistical Analysis, Tableau, Power Bi, Supply Chain Analytics, HealthCare Analytics, OLAP, Machine Learning"],
     date: "07/2023 - 06/2024",
     icon: "school",
     image: "../public/assets/images/UB.png"
@@ -17,9 +17,9 @@ let timelineElements = [
     position: "Associate Software Engineer",
     location: "Pune, India",
     description:
-      ["Developed and maintained PAANS, a Consent Management web application using React.js and Node.js", 
-      "Enhanced application performance and user engagement through SEO optimization, leading to significant improvements in search engine visibility and user interaction",
-      "Received SPOT Award for resolving 90% of security vulnerabilities, achieving Checkmarx and WhiteSource certifications."],
+      ["As an Associate Software Engineer at Ernst & Young Global Limited in Pune, India, I was responsible for designing and implementing Microsoft SQL Server databases to optimize user data storage and retrieval for the PAANS Consent Management web application", 
+      "I led the development of a Power BI dashboard to monitor API performance, displaying essential metrics such as API hits and policy status",
+      "Received with a SPOT Award for significantly improving system security by addressing SQL vulnerabilities"],
     buttonText: "Company Website",
     date: "11/2021 - 06/2023",
     icon: "work",
@@ -31,9 +31,11 @@ let timelineElements = [
     position: "Junior Software Engineer",
     location: "Kurnool, India",
     description:
-      ["Engineered responsive web interfaces for the company's seed inventory management system, leveraging React.js and implementing advanced state management solutions including Redux Toolkit and Redux Saga", 
-        "Spearheaded performance optimization initiatives, employing techniques such as lazy loading and code splitting, resulting in a Lighthouse performance score exceeding 90 across all application pages",
-        "Facilitated seamless data exchange through RESTful API integration and utilized Git for version control, contributing to enhanced system responsiveness and improved team efficiency within an Agile development framework"
+      ["Utilized Python libraries such as Pandas and Scikit-learn to create predictive models for analyzing historical sales data, enabling more accurate inventory management", 
+        "Applied regression analysis and time series forecasting techniques to market research, identifying key trends and opportunities in the seed industry",
+        "Developed responsive web interfaces using React.js to enhance user engagement for the company’s seed inventory management system",
+        "Monitored acquisition strategies with Google Tag Manager and analyzed website traffic using Google Analytics to boost customer sign-ups",
+        "Leveraged user behavior data to improve the overall website experience, encouraging repeat visits"
         ],
     date: "08/2020 - 10/2021",
     icon: "work",
