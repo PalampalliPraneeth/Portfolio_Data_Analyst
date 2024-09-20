@@ -17,7 +17,7 @@ let timelineElements = [
     position: "Associate Software Engineer",
     location: "Pune, India",
     description:
-      ["As an Associate Software Engineer at Ernst & Young Global Limited in Pune, India, I was responsible for designing and implementing Microsoft SQL Server databases to optimize user data storage and retrieval for the PAANS Consent Management web application", 
+      ["As an Associate Software Engineer at Ernst & Young, I was responsible for designing and implementing Microsoft SQL Server databases to optimize user data storage and retrieval for the PAANS Consent Management web application", 
       "I led the development of a Power BI dashboard to monitor API performance, displaying essential metrics such as API hits and policy status",
       "Received with a SPOT Award for significantly improving system security by addressing SQL vulnerabilities"],
     buttonText: "Company Website",
