@@ -31,11 +31,11 @@ let timelineElements = [
     position: "Junior Software Engineer",
     location: "Kurnool, India",
     description:
-      ["Utilized Python libraries such as Pandas and Scikit-learn to create predictive models for analyzing historical sales data, enabling more accurate inventory management", 
-        "Applied regression analysis and time series forecasting techniques to market research, identifying key trends and opportunities in the seed industry",
-        "Developed responsive web interfaces using React.js to enhance user engagement for the company’s seed inventory management system",
+        ["Developed responsive web interfaces using React.js to enhance user engagement for the company’s seed inventory management system",
         "Monitored acquisition strategies with Google Tag Manager and analyzed website traffic using Google Analytics to boost customer sign-ups",
-        "Leveraged user behavior data to improve the overall website experience, encouraging repeat visits"
+        "Leveraged user behavior data to improve the overall website experience, encouraging repeat visits",
+        "Utilized Python libraries such as Pandas and Scikit-learn to create predictive models for analyzing historical sales data, enabling more accurate inventory management", 
+        "Applied regression analysis and time series forecasting techniques to market research, identifying key trends and opportunities in the seed industry",
         ],
     date: "08/2020 - 10/2021",
     icon: "work",

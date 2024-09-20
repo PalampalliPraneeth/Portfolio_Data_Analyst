@@ -91,39 +91,6 @@ export const SKILLS = [
 
 export const WORK_EXPERIENCE = [
   {
-    id: 1,
-    title: "Evo Fitness GYM Website ",
-    // date: "January 2022 - Present",
-    responsibilities: [
-      "It showcases the features and services offered by the gym, including classes, benefits, and contact information",
-      "Built application using TypeScript, React, and Framer Motion",
-    ],
-    gitUrl: "https://github.com/PalampalliPraneeth/Gym-Website",
-    webUrl: "https://evo-gym-fitness.vercel.app/"
-  },
-  {
-    id: 2,
-    title: "Wordle Clone ",
-    // date: "January 2022 - Present",
-    responsibilities: [
-      "Wordle Clone is a web-based game inspired by the popular word-guessing game Wordle.",
-      "Built application using React.js",
-    ],
-    gitUrl: "https://github.com/PalampalliPraneeth/Wordle-Clone",
-    webUrl: "https://wordle-clone-95um.vercel.app/"
-  },
-  {
-    id: 3,
-    title: "Weather Application",
-    // date: "January 2022 - Present",
-    responsibilities: [
-      "A simple weather application built with React that allows users to get the current weather information for a specific location",
-      "The app fetches weather data from the OpenWeatherMap API",
-    ],
-    gitUrl: "https://github.com/PalampalliPraneeth/Weather-application",
-    webUrl: "https://weather-application-beta-self.vercel.app/"
-  },
-  {
     id: 4,
     title: "URL Web Scrapper using Gemini LLM",
     // date: "January 2022 - Present",
@@ -163,5 +130,38 @@ export const WORK_EXPERIENCE = [
         "The analysis uses the red wine quality dataset, exploring relationships between chemical properties and wine quality ratings",
       ],
       gitUrl:"https://github.com/PalampalliPraneeth/Red-Wine-Quality-"
+    },
+    {
+      id: 8,
+      title: "Evo Fitness GYM Website ",
+      // date: "January 2022 - Present",
+      responsibilities: [
+        "It showcases the features and services offered by the gym, including classes, benefits, and contact information",
+        "Built application using TypeScript, React, and Framer Motion",
+      ],
+      gitUrl: "https://github.com/PalampalliPraneeth/Gym-Website",
+      webUrl: "https://evo-gym-fitness.vercel.app/"
+    },
+    {
+      id: 9,
+      title: "Wordle Clone ",
+      // date: "January 2022 - Present",
+      responsibilities: [
+        "Wordle Clone is a web-based game inspired by the popular word-guessing game Wordle.",
+        "Built application using React.js",
+      ],
+      gitUrl: "https://github.com/PalampalliPraneeth/Wordle-Clone",
+      webUrl: "https://wordle-clone-95um.vercel.app/"
+    },
+    {
+      id: 10,
+      title: "Weather Application",
+      // date: "January 2022 - Present",
+      responsibilities: [
+        "A simple weather application built with React that allows users to get the current weather information for a specific location",
+        "The app fetches weather data from the OpenWeatherMap API",
+      ],
+      gitUrl: "https://github.com/PalampalliPraneeth/Weather-application",
+      webUrl: "https://weather-application-beta-self.vercel.app/"
     },
 ];

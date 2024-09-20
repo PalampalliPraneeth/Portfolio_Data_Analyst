@@ -1,6 +1,6 @@
 import React from "react";
 import "./MobileNav.css";
-import resumeFile from "../../../Resume_Software.pdf";
+// import resumeFile from "../../../Resume_Software.pdf";
 
 const MobileNav = ({ isOpen, toggleMenu }) => {
   
@@ -11,6 +11,7 @@ const MobileNav = ({ isOpen, toggleMenu }) => {
 
   const handleDownloadResume = () => {
     try {
+      const resumeFile = "/assets/images/Resume_Software.pdf"; // Path to  PDF
       const link = document.createElement("a");
       link.href = resumeFile;
       link.download = "PraneethKumarReddy.pdf";
