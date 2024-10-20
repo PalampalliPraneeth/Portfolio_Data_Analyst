@@ -1,29 +1,6 @@
 
 export const SKILLS = [
   {
-    title: "Front-End/UI",
-    icon: "./assets/images/frontend-icon.png",
-    skills: [
-      { skill: "HTML5", percentage: "90%" },
-      { skill: "CSS3 (Sass/SCSS)", percentage: "75%" },
-      { skill: "BootStrap", percentage: "75%" },
-      { skill: "JavaScript", percentage: "80%" },
-      { skill: "React js", percentage: "80%" },
-      { skill: "Node js", percentage: "70%" },
-      { skill: "React Native", percentage: "70%" },
-      { skill: "TypeScript", percentage: "60%" },
-      { skill: "Angular", percentage: "65%" },
-      { skill: "NPM", percentage: "60%" },
-      { skill: "Rest API", percentage: "55%" },
-      { skill: "Graph QL", percentage: "50%" },
-      { skill: "Babel", percentage: "60%" },
-      { skill: "WebPack", percentage: "65%" },
-      { skill: "Figma", percentage: "50%" },
-      { skill: "SharePoint", percentage: "50%" },
-
-    ],
-  },
-  {
     title: "Data Analysis",
     icon: "./assets/images/backend-icon.png",
     skills: [
@@ -51,11 +28,10 @@ export const SKILLS = [
     title: "Database Systems",
     icon: "./assets/images/soft-skills-icon.png",
     skills: [
-      { skill: "SQL", percentage: "85%" },
+      { skill: "MySQL", percentage: "85%" },
       { skill: "Oracle", percentage: "80%" },
-      { skill: "MS SQL", percentage: "75%" },
-      { skill: "SnowFlake", percentage: "70%" },
-
+      { skill: "Microsoft SQL Server", percentage: "75%" },
+      { skill: "AWS Dynamo DB", percentage: "60%" },
     ],
   },
   {
@@ -72,15 +48,51 @@ export const SKILLS = [
     ],
   },
   {
-    title: "Tools & Other Languages",
+    title: "Cloud",
+    icon: "./assets/images/c3.png",
+    style:{
+      'background_color': "red",
+    },
+    iconStyle: "fill: #7c5fe6;",
+    skills: [
+      { skill: "Azure DevOps", percentage: "70%" },
+      { skill: "AWS Suite (S3, Glue, Redshift)", percentage: "65%" },
+      { skill: "GCP", percentage: "60%" },
+    ],
+  },
+  {
+    title: "Front-End/UI",
+    icon: "./assets/images/frontend-icon.png",
+    skills: [
+      { skill: "HTML5", percentage: "90%" },
+      { skill: "CSS3 (Sass/SCSS)", percentage: "80%" },
+      { skill: "BootStrap", percentage: "75%" },
+      { skill: "JavaScript", percentage: "80%" },
+      { skill: "React js", percentage: "80%" },
+      { skill: "Node js", percentage: "70%" },
+      { skill: "React Native", percentage: "70%" },
+      { skill: "TypeScript", percentage: "60%" },
+      { skill: "Angular", percentage: "65%" },
+      { skill: "NPM", percentage: "60%" },
+      { skill: "Rest API", percentage: "55%" },
+      { skill: "Graph QL", percentage: "50%" },
+      { skill: "Babel", percentage: "60%" },
+      { skill: "WebPack", percentage: "65%" },
+      { skill: "Figma", percentage: "50%" },
+      { skill: "SharePoint", percentage: "50%" },
+
+    ],
+  },
+  {
+    title: "Tools & Languages",
     icon: "./assets/images/tools-icon.png",
     skills: [
       { skill: "Git & GitHub", percentage: "85%" },
       { skill: "Visual Studio Code", percentage: "90%" },
       { skill: "Google Colab", percentage: "80%" },
       { skill: "Jupyter Notebook", percentage: "80%" },
-      { skill: "Google Analytics", percentage: "65%" },
       { skill: "Android Studio", percentage: "40%" },
+      { skill: "SnowFlake", percentage: "70%" },
       { skill: "C programming", percentage: "70%" },
       { skill: "MATLAB", percentage: "75%" },
       { skill: "Visual Basic for Application", percentage: "70%" },

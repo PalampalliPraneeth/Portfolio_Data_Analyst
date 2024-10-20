@@ -16,7 +16,7 @@ const handleDownloadResume = () => {
     const resumeFile = "/assets/images/Resume_Software.pdf"; // Path to  PDF
     const link = document.createElement("a");
     link.href = resumeFile;
-    link.download = "PraneethKumarReddy.pdf";
+    link.download = "Praneeth Kumar Reddy Palmpalli.pdf";
 
     // Trigger a click event to download the file
     document.body.appendChild(link);
