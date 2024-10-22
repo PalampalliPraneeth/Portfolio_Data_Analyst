@@ -34,7 +34,7 @@ let timelineElements = [
   },
   {
     id: 3,
-    title: "Ernst & Young",
+    title: "Ernst & Young (EY) Global Limited",
     position: "Business Analyst",
     location: "Pune, India",
     description:
