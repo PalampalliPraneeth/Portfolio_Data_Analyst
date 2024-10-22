@@ -5,9 +5,16 @@ let timelineElements = [
     position: "Data Analyst",
     location: "Boston, MA, United States of America",
     description:
-      ["Utilized Python for regression analysis and hypothesis testing, producing reports that optimize resource allocation strategies for improved operational efficiency",
-        "Leveraged Python to clean and validate data from government databases and community surveys, improving compliance reporting accuracy for 10 major projects by 40%",
-        "Built a pipeline to ingest data from multiple Applicant Tracking Systems (Workday, Greenhouse, etc.) into Amazon RDS using MySQL Workbench, processing over 1 million records weekly and improving data accuracy by 30,000 entries per week"
+    [
+      <>
+        Utilized <strong> Python for regression analysis and hypothesis testing, producing reports </strong> that optimize resource allocation strategies for improved operational efficiency
+      </>,
+      <>
+        Leveraged Python to clean and validate data from government databases and community surveys, improving compliance reporting accuracy for 10 major projects by 40%
+      </>,
+      <>
+        <strong>Built a pipeline</strong> to ingest data from multiple Applicant Tracking Systems (Workday, Greenhouse, etc.) into <strong>Amazon RDS</strong> using <strong>MySQL Workbench</strong>, processing over 1 million records weekly and improving data accuracy by 30,000 entries per week
+      </>
     ],
     buttonText: "Company Website",
     date: "08/2024 - present",
@@ -20,7 +27,7 @@ let timelineElements = [
     position: "Master's in Business Analytics",
     location: "Buffalo, USA",
     description:
-      ["Coursework: Web Analytics, DataBase Management System, Visual Basic for Applications, SQL, Python, R Programming, Statistical Analysis, Tableau, Power Bi, Supply Chain Analytics, HealthCare Analytics, OLAP, Machine Learning"],
+      [<><strong>Coursework:</strong> Web Analytics, DataBase Management System, Visual Basic for Applications, SQL, Python, R Programming, Statistical Analysis, Tableau, Power Bi, Supply Chain Analytics, HealthCare Analytics, OLAP, Machine Learning</>],
     date: "07/2023 - 06/2024",
     icon: "school",
     image: "../public/assets/images/UB.png"
@@ -31,10 +38,9 @@ let timelineElements = [
     position: "Business Analyst",
     location: "Pune, India",
     description:
-      ["Designed and maintain SQL Server databases, ensuring efficient data storage and developing Power BI dashboards for tracking customer insights and policy performance",
-        "Utilized Excel, Python, SQL, and GCP to analyze demographics and product usage across various regions, while optimizing data processing and analytics workflows",
-        "Implemented row-level security in Power BI dashboards, manage stakeholder requirements, and apply ETL and data modeling fundamentals to improve database performance and data privacy compliance",
-        "Received a “SPOT Award” for resolving 90% of SQL database vulnerabilities and implementing data governance measures, significantly enhancing data security and system stability"
+      [<> <strong> Designed and maintained SQL Server databases </strong>, ensuring efficient data storage and developing <strong> Power BI dashboards </strong> for tracking customer insights and policy performance </>,
+        <> <strong> Utilized Excel, Python, SQL, and GCP </strong> to analyze demographics and product usage across various regions, while optimizing data processing and analytics workflows</>,
+        <>Received <strong> a “SPOT Award” </strong> for resolving 90% of <strong> SQL database vulnerabilities </strong> and implementing data governance measures, significantly enhancing data security and system stability</>
     ],
     buttonText: "Company Website",
     date: "11/2021 - 06/2023",
@@ -47,9 +53,9 @@ let timelineElements = [
     position: "Data Analyst",
     location: "Kurnool, India",
     description:
-        ["Conducted financial analysis for inventory management using Excel and Power Query, and present insights through dashboards for stakeholder decision-making",
-          "Performed exploratory data analysis using Python and R to identify trends in seed inventory and support data-driven decision-making processes",
-          "Configured and managed Amazon S3 for secure, scalable data storage, while developing and maintaining dashboards in Tableau to track portfolio performance and drive strategic insights"
+        [<><strong>Conducted financial analysis </strong> for inventory management using Excel and Power Query, and present <strong> insights through dashboards for stakeholder decision-making </strong></>,
+          <>Performed <strong> exploratory data analysis using Python and R </strong> to identify trends in seed inventory and support data-driven decision-making processes</>,
+          <>Configured and managed <strong> Amazon S3 for secure, scalable data storage </strong>, while developing and maintaining dashboards in <strong> Tableau to track portfolio performance and drive strategic insights </strong></>
         ],
     date: "04/2020 - 10/2021",
     icon: "work",
@@ -60,7 +66,7 @@ let timelineElements = [
     position: "Bachelor of Engineering, Information and Technology",
     location: "Chennai, India",
     description:
-      ["Pursued a Bachelor's degree in Information Technology.Studied diverse subjects including C programming, SQL, Html, CSS, Excel, R language, Python and Agile, Waterfall Methodology", 
+      [<> Pursued a Bachelor's degree in Information Technology.Studied diverse subjects <strong> including C programming, SQL, Html, CSS, Excel, R language, Machine Learning, Python and various SOftware Developement Lifecyles (Agile, Waterfall Methodologies) </strong> </>, 
       "Applied programming skills to real-world scenarios and projects"],
     buttonText: "Course Certificate",
     date: "07/2017 - 06/2021",

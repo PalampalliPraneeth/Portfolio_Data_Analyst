@@ -46,7 +46,7 @@ function Education() {
         >
             <div style={{display:"flex", alignItems: "center" }}>
                 <div style={{ width: "50px", height: "50px", overflow: "hidden", marginRight: "10px" }}>
-                    {isUb && <img src={UBImage} alt="Logo" style={{ width: "100%", height: "100%", objectFit: "cover" }} />}
+                    {isUb && <img src={UBImage} alt="Logo" style={{ width: "100%", height: "100%" }} />}
                     {isCDF && <img src={CDFImage} alt="Logo" style={{ width: "100%", height: "100%", objectFit: "cover" }} />}
                     {isEy && <img src={EYImage} alt="Logo" style={{ width: "100%", height: "100%", objectFit: "cover" }} />}
                     {isAgsdo && <img src={AgsdoImage} alt="Logo" style={{ width: "100%", height: "100%", objectFit: "cover" }} />}
@@ -55,14 +55,14 @@ function Education() {
                 </div>
                 <div>
                     <h3 style={{color: "black"}}>
-                        {element.title}
+                        {element.position}
                     </h3>
                     <div>
                         {/* <h5 style={{color: "black"}}>
                             {element.date}
                         </h5> */}
                         <h5 style={{color: "black"}}>
-                        {element.position}
+                        {element.title}
                         </h5>
                         <h5 style={{color: "black"}}>
                             {element.location}
