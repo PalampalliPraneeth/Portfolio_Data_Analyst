@@ -5,7 +5,7 @@ let timelineElements = [
     position: "Data Analyst",
     location: "Boston, MA, United States of America",
     description:
-      ["Utilize Python for regression analysis and hypothesis testing, producing reports that optimize resource allocation strategies for improved operational efficiency",
+      ["Utilized Python for regression analysis and hypothesis testing, producing reports that optimize resource allocation strategies for improved operational efficiency",
         "Leveraged Python to clean and validate data from government databases and community surveys, improving compliance reporting accuracy for 10 major projects by 40%",
         "Built a pipeline to ingest data from multiple Applicant Tracking Systems (Workday, Greenhouse, etc.) into Amazon RDS using MySQL Workbench, processing over 1 million records weekly and improving data accuracy by 30,000 entries per week"
     ],
@@ -31,9 +31,9 @@ let timelineElements = [
     position: "Business Analyst",
     location: "Pune, India",
     description:
-      ["Design and maintain SQL Server databases, ensuring efficient data storage and developing Power BI dashboards for tracking customer insights and policy performance",
-        "Utilize Excel, Python, SQL, and GCP to analyze demographics and product usage across various regions, while optimizing data processing and analytics workflows",
-        "Implement row-level security in Power BI dashboards, manage stakeholder requirements, and apply ETL and data modeling fundamentals to improve database performance and data privacy compliance",
+      ["Designed and maintain SQL Server databases, ensuring efficient data storage and developing Power BI dashboards for tracking customer insights and policy performance",
+        "Utilized Excel, Python, SQL, and GCP to analyze demographics and product usage across various regions, while optimizing data processing and analytics workflows",
+        "Implemented row-level security in Power BI dashboards, manage stakeholder requirements, and apply ETL and data modeling fundamentals to improve database performance and data privacy compliance",
         "Received a “SPOT Award” for resolving 90% of SQL database vulnerabilities and implementing data governance measures, significantly enhancing data security and system stability"
     ],
     buttonText: "Company Website",
