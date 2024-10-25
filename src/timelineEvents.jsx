@@ -25,7 +25,7 @@ let timelineElements = [
     id: 2,
     title: "University at Buffalo(Suny Buffalo)",
     position: "Master's in Business Analytics",
-    location: "Buffalo, USA",
+    location: "Buffalo, NY, United States of America",
     description:
       [<><strong>Coursework:</strong> Web Analytics, DataBase Management System, Visual Basic for Applications, SQL, Python, R Programming, Statistical Analysis, Tableau, Power Bi, Supply Chain Analytics, HealthCare Analytics, OLAP, Machine Learning</>],
     date: "07/2023 - 06/2024",
@@ -36,7 +36,7 @@ let timelineElements = [
     id: 3,
     title: "Ernst & Young (EY) Global Limited",
     position: "Business Analyst",
-    location: "Pune, India",
+    location: "Pune, MH, India",
     description:
       [<> <strong> Designed and maintained SQL Server databases </strong>, ensuring efficient data storage and developing <strong> Power BI dashboards </strong> for tracking customer insights and policy performance </>,
         <> <strong> Utilized Excel, Python, SQL, and GCP </strong> to analyze demographics and product usage across various regions, while optimizing data processing and analytics workflows</>,
@@ -51,7 +51,7 @@ let timelineElements = [
     id: 4,
     title: "Agsdo Pvt Ltd",
     position: "Data Analyst",
-    location: "Kurnool, India",
+    location: "Kurnool, AP, India",
     description:
         [<><strong>Conducted financial analysis </strong> for inventory management using Excel and Power Query, and present <strong> insights through dashboards for stakeholder decision-making </strong></>,
           <>Performed <strong> exploratory data analysis using Python and R </strong> to identify trends in seed inventory and support data-driven decision-making processes</>,
@@ -64,7 +64,7 @@ let timelineElements = [
     id: 5,
     title: "SRM Institute of Science and Technology",
     position: "Bachelor of Engineering, Information and Technology",
-    location: "Chennai, India",
+    location: "Chennai, TN, India",
     description:
       [<> Pursued a Bachelor's degree in Information Technology.Studied diverse subjects <strong> including C programming, SQL, Html, CSS, Excel, R language, Machine Learning, Python and various SOftware Developement Lifecyles (Agile, Waterfall Methodologies) </strong> </>, 
       "Applied programming skills to real-world scenarios and projects"],
@@ -77,7 +77,7 @@ let timelineElements = [
     id: 6,
     title: "Narayana Junior College",
     position: "Maths, Physics, Chemistry",
-    location: "Hyderabad, India",
+    location: "Hyderabad, TN, India",
     description:
       ["Gained a strong foundation in mathematics and sciences",
        "Developed problem-solving and critical thinking skills through rigorous coursework"],
@@ -89,7 +89,7 @@ let timelineElements = [
   {
     id: 7,
     title: "Narayana English Medium High School",
-    location: "Kadapa, India",
+    location: "Kadapa, AP, India",
     description:
       ["Excelled in a rigorous academic environment with a focus on holistic development",
        "Participated actively in extracurricular activities such as sports, cultural events, or clubs"],
