@@ -57,7 +57,7 @@ let timelineElements = [
           <>Performed <strong> exploratory data analysis using Python and R </strong> to identify trends in seed inventory and support data-driven decision-making processes</>,
           <>Configured and managed <strong> Amazon S3 for secure, scalable data storage </strong>, while developing and maintaining dashboards in <strong> Tableau to track portfolio performance and drive strategic insights </strong></>
         ],
-    date: "04/2020 - 10/2021",
+    date: "04/2019 - 10/2021",
     icon: "work",
   },
   {
@@ -69,7 +69,7 @@ let timelineElements = [
       [<> Pursued a Bachelor's degree in Information Technology.Studied diverse subjects <strong> including C programming, SQL, Html, CSS, Excel, R language, Machine Learning, Python and various SOftware Developement Lifecyles (Agile, Waterfall Methodologies) </strong> </>, 
       "Applied programming skills to real-world scenarios and projects"],
     buttonText: "Course Certificate",
-    date: "07/2017 - 06/2021",
+    date: "07/2017 - 04/2021",
     icon: "school",
     image: "../public/assets/images/SRM.png"
   },
